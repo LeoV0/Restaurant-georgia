@@ -21,3 +21,4 @@ git clone https://github.com/LeoV0/Restaurant-georgia.git
 ## Visualisation
 Si vous voulez avoir une première aperçu du projet cliquez sur le lien ci dessous :
 https://leov0.github.io/Restaurant-georgia/
+![Screenshot_10](https://github.com/LeoV0/Restaurant-georgia/assets/90071559/dbbf0b97-4a92-4b7d-a259-23d263cbe24f)
